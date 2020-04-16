@@ -2,4 +2,6 @@
 
 This is a sample readme file
 
-## HEading 2
+## Heading 2
+
+Some other updates
